@@ -59,6 +59,7 @@
   <img src="docs/images/costperformance-result.png" width="45%" alt="分析結果">
 </div>
 
+</details>
 左: コスパ確認をしたい商品を選択。ロイヤルブルーのテーマカラー。
 右: 期間を指定。平均単価、最安値、店舗別比較を一覧表示。
 
